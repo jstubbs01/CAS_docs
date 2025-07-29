@@ -41,5 +41,5 @@ View a [demo](./2025_reports/policy_memo_demo_JS/).
 
 ## How to contribute
 
-Clone the repository, upload your folder and begin adding commits!
+[Clone the repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository), upload your folder and begin adding commits!
 

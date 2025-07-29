@@ -11,6 +11,7 @@ Each project should be given its own folder underneath [2025_reports](./2025_rep
 
 ### example structure
 
+```plaintext
 CAS_DOCS/
 ├── 2025_reports/
 │ ├── policy_memo_demo/
@@ -33,6 +34,8 @@ CAS_DOCS/
 │ │ ├── src/
 │ │ ├── yaml/
 │ │ └── out/
+
+```
 
 View a [demo](./2025_reports/policy_memo_demo/).
 

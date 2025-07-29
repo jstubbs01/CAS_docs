@@ -5,6 +5,7 @@
 Coronary artery disease (CAD), the **leading cause of death** globally, results in over 300,000 annual fatalities in the U.S. alone. 
 
 ![Figure S1: Coronary artery disease (CAD) leads in cardiovascular deaths per year. Bar chart illustrating the percent of total cardiovascular disease (CVD)-related deaths per disease type. Coronary Heart Disease (CHD) contributes to the highest proportion of CVD deaths per year at over 40%. Adapted from American Heart Association 2024 Heart Disease and Stroke Statistics.](../fig/S1.PNG)
+*Figure S1: Coronary artery disease (CAD) leads in cardiovascular deaths per year. Bar chart illustrating the percent of total cardiovascular disease (CVD)-related deaths per disease type. Coronary Heart Disease (CHD) contributes to the highest proportion of CVD deaths per year at over 40%. Adapted from American Heart Association 2024 Heart Disease and Stroke Statistics.*
 CAD is primarily driven by **atherosclerosis**—a chronic inflammatory disease characterized by arterial blockage developed from lipid accumulation, immune cell infiltration, and structural changes within arterial walls. Despite advancements in clinical treatments, including lipid-lowering drugs and anti-inflammatory therapies, CAD remains complex due to its multifactorial nature involving genetic, environmental, and lifestyle risk factors.
 
 ## Significance
@@ -12,6 +13,7 @@ CAD is primarily driven by **atherosclerosis**—a chronic inflammatory disease 
 Early detection and precise understanding of CAD are essential to prevent disease progression. CAD is the leading cause of cardiovascular deaths, significantly outpacing other conditions such as stroke, hypertension, and heart failure. Additionally, it represents one of the top contributors to healthcare costs in the United States, reflecting its substantial economic burden.
 
 ![Figure S2: CAD is a top contributor to health costs per year. Bar chart highlights clinical diagnoses and their contributions to health costs in billions, with heart disease among the top five contributors at approximately 117 billion/yr. From American Heart Association 2024 Heart Disease and Stroke Statistics](../fig/S2.PNG)
+*Figure S2: CAD is a top contributor to health costs per year. Bar chart highlights clinical diagnoses and their contributions to health costs in billions, with heart disease among the top five contributors at approximately 117 billion/yr. From American Heart Association 2024 Heart Disease and Stroke Statistics*
 
 
 Atherosclerosis develops silently through various stages, from early, reversible lesions to advanced, rupture-prone plaques causing heart attacks and ischemic strokes. Current diagnostic imaging techniques (such as IVUS, OCT, and CCTA) and histopathological exams are critical for monitoring CAD progression but have limitations in early detection and precise characterization.
@@ -19,7 +21,8 @@ Atherosclerosis develops silently through various stages, from early, reversible
 ## Historical context of genomic discoveries
 
 Over the past two decades, **genome-wide association studies** (GWAS) have progressively identified hundreds of genetic risk loci linked to CAD. Beginning with the initial discoveries in 2002, researchers have steadily expanded general understanding of the genetic basis of CAD, now identifying over 300 risk loci. 
-![Figure S3: CAD genomic studies have rapidly increased. Timeline of genome wide association studies (GWAS) of CAD have led to improved understanding of genetic factors and risk variants associated with greater risk of developing CAD.](../fig/S3.PNG) 
+![Figure S3: CAD genomic studies have rapidly increased. Timeline of genome wide association studies (GWAS) of CAD have led to improved understanding of genetic factors and risk variants associated with greater risk of developing CAD.](../fig/S3.PNG)
+*Figure S3: CAD genomic studies have rapidly increased. Timeline of genome wide association studies (GWAS) of CAD have led to improved understanding of genetic factors and risk variants associated with greater risk of developing CAD.* 
 Despite this progress, these genomic studies have predominantly focused on populations of European ancestry, limiting their broader applicability.
 
 ## Opportunities in genomics and epigenetics

@@ -24,6 +24,7 @@ Atherosclerosis develops silently through various stages, from early, reversible
 Over the past two decades, **genome-wide association studies** (GWAS) have progressively identified hundreds of genetic risk loci linked to CAD. Beginning with the initial discoveries in 2002, researchers have steadily expanded general understanding of the genetic basis of CAD, now identifying over 300 risk loci. 
 ![Figure S3: CAD genomic studies have rapidly increased. Timeline of genome wide association studies (GWAS) of CAD have led to improved understanding of genetic factors and risk variants associated with greater risk of developing CAD.](../fig/S3.PNG)
 *Figure S3: CAD genomic studies have rapidly increased. Timeline of genome wide association studies (GWAS) of CAD have led to improved understanding of genetic factors and risk variants associated with greater risk of developing CAD.* 
+
 Despite this progress, these genomic studies have predominantly focused on populations of European ancestry, limiting their broader applicability.
 
 ## Opportunities in genomics and epigenetics

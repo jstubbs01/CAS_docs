@@ -37,7 +37,7 @@ CAS_DOCS/
 
 ```
 
-View a [demo](./2025_reports/policy_memo_demo/).
+View a [demo](./2025_reports/policy_memo_demo_JS/).
 
 ## How to contribute
 

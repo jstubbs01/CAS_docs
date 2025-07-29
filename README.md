@@ -1,5 +1,5 @@
 # CAS_docs
-A location to store CAS articles and related documents
+A location to store Casualty Actuarial Society (CAS) articles and related documents
 
 ## Project overview
 

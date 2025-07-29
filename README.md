@@ -7,14 +7,14 @@ CAS uploads several articles annually, each with subarticles and associated docu
 
 ## Repo structure
 
-Each project should be given its own folder underneath [2025_reports](./2025_reports/). Each year, a new primary folder will be made to house corresponding articles for that year. 
+Each project should be given its own folder with the author initials underneath [2025_reports](./2025_reports/). Each year, a new primary folder will be made to house corresponding articles for that year. 
 
 ### example structure
 
 ```plaintext
 CAS_DOCS/
 ├── 2025_reports/
-│ ├── policy_memo_demo/
+│ ├── project_1_JS/
 │ │ ├── fig/
 │ │ │ ├── S1.PNG
 │ │ │ ├── S2.PNG
@@ -29,7 +29,7 @@ CAS_DOCS/
 │ │ ├── template.xls
 │ │ ├── forms.pdf
 │ │ ├── peer_review_comments.md
-│ ├── another_project/
+│ ├── project_2_JS/
 │ │ ├── fig/
 │ │ ├── src/
 │ │ ├── yaml/

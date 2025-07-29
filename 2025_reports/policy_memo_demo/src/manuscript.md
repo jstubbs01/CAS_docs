@@ -6,6 +6,7 @@ Coronary artery disease (CAD), the **leading cause of death** globally, results 
 
 ![Figure S1: Coronary artery disease (CAD) leads in cardiovascular deaths per year. Bar chart illustrating the percent of total cardiovascular disease (CVD)-related deaths per disease type. Coronary Heart Disease (CHD) contributes to the highest proportion of CVD deaths per year at over 40%. Adapted from American Heart Association 2024 Heart Disease and Stroke Statistics.](../fig/S1.PNG)
 *Figure S1: Coronary artery disease (CAD) leads in cardiovascular deaths per year. Bar chart illustrating the percent of total cardiovascular disease (CVD)-related deaths per disease type. Coronary Heart Disease (CHD) contributes to the highest proportion of CVD deaths per year at over 40%. Adapted from American Heart Association 2024 Heart Disease and Stroke Statistics.*
+
 CAD is primarily driven by **atherosclerosis**—a chronic inflammatory disease characterized by arterial blockage developed from lipid accumulation, immune cell infiltration, and structural changes within arterial walls. Despite advancements in clinical treatments, including lipid-lowering drugs and anti-inflammatory therapies, CAD remains complex due to its multifactorial nature involving genetic, environmental, and lifestyle risk factors.
 
 ## Significance
@@ -13,7 +14,7 @@ CAD is primarily driven by **atherosclerosis**—a chronic inflammatory disease 
 Early detection and precise understanding of CAD are essential to prevent disease progression. CAD is the leading cause of cardiovascular deaths, significantly outpacing other conditions such as stroke, hypertension, and heart failure. Additionally, it represents one of the top contributors to healthcare costs in the United States, reflecting its substantial economic burden.
 
 ![Figure S2: CAD is a top contributor to health costs per year. Bar chart highlights clinical diagnoses and their contributions to health costs in billions, with heart disease among the top five contributors at approximately 117 billion/yr. From American Heart Association 2024 Heart Disease and Stroke Statistics](../fig/S2.PNG)
-*Figure S2: CAD is a top contributor to health costs per year. Bar chart highlights clinical diagnoses and their contributions to health costs in billions, with heart disease among the top five contributors at approximately 117 billion/yr. From American Heart Association 2024 Heart Disease and Stroke Statistics*
+*Figure S2: CAD is a top contributor to health costs per year. Bar chart highlights clinical diagnoses and their contributions to health costs in billions, with heart disease among the top five contributors at approximately 117 billion/yr. Adapted from American Heart Association 2024 Heart Disease and Stroke Statistics.*
 
 
 Atherosclerosis develops silently through various stages, from early, reversible lesions to advanced, rupture-prone plaques causing heart attacks and ischemic strokes. Current diagnostic imaging techniques (such as IVUS, OCT, and CCTA) and histopathological exams are critical for monitoring CAD progression but have limitations in early detection and precise characterization.
